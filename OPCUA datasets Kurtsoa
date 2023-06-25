@@ -1,0 +1,22 @@
+[
+    {
+        "name": "EzkerrekoDetektorea",
+        "nodeId": "ns=4;s=|var|CODESYS Control for Raspberry Pi SL.Application.GVL.ind_sensor_1",
+        "datatypeName": "Boolean"
+    },
+    {
+        "name": "EskubikoDetektorea",
+        "nodeId": "ns=4;s=|var|CODESYS Control for Raspberry Pi SL.Application.GVL.ind_sensor_2",
+        "datatypeName": "Boolean"
+    },
+    {
+        "name": "DistantziaSentsorea",
+        "nodeId": "ns=4;s=|var|CODESYS Control for Raspberry Pi SL.Application.GVL.analog",
+        "datatypeName": "Double"
+    },
+    {
+        "name": "zikloa",
+        "nodeId": "ns=4;s=|var|CODESYS Control for Raspberry Pi SL.Application.GVL.zikloa",
+        "datatypeName": "Double"
+    }
+]
